@@ -109,7 +109,7 @@
     {
       "id": 3,
       "name": "IT미주연수",
-      "period": ["2022. 01"],
+      "period": ["2023. 01"],
       "description": "CES2023 참관 및 해외 유수 기업 방문"
     },
     {
@@ -172,7 +172,7 @@
     {
       "id": 0,
       "name": "블록체인 개발 최우수상",
-      "date": "2019. 07. 28",
+      "date": "2022. 07. 28",
       "organizer": "KSA",
       "description": "Logistics tracking and management system using private blockchain"
     }
