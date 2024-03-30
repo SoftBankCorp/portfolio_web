@@ -12,12 +12,10 @@
     ]
   },
 
-  "workExperience": [
-  ],
   "project": [
     {
       "id": 0,
-      "name": "Logistics tracking and management system using private blockchain",
+      "name": "Logistics tracking and management system",
       "description": "Use Hyperledger Fabric technology",
       "webUrl": "None",
       "repoUrl": "None",
@@ -27,7 +25,7 @@
     },
     {
       "id": 1,
-      "name": "외부 날씨환경에 맞는 무드등 개발",
+      "name": "외부 날씨환경에 맞는 무드등",
       "description": "온습도 센서, 조도센서를 활용해 외부 데이터를 블루투스통신으로 ",
       "webUrl": "",
       "repoUrl": "https://github.com/sjoleee/",
@@ -37,7 +35,7 @@
     },
     {
       "id": 2,
-      "name": "RTOS 자율주행 RC카 제작",
+      "name": "RTOS 자율주행 RC카",
       "description": "BT통신으로 수동조작 +카메라 대신 초음파센서를 이용하여 장애물인식후 회피 및 주행",
       "repoUrl": "https://github.com/SoftBankCorp/automobile_test_project",
       "isTeam": true,
@@ -55,17 +53,17 @@
     },
     {
       "id": 4,
-      "name": "파인튜닝 챗봇 웹사이트 개발",
-      "description": "GPT API를 이용하여 웹사이트에 챗봇 프로그램을 넣어 자사 궁금증에 질답을 할 수 있도록 함",
+      "name": "Yolo5 을 이용한 얼굴/사물인식_실시간 판단",
+      "description": "실시간으로 위험판단 및 학습된 이미지와 캠에서의 이미지 차이판단 오류검출",
       "repoUrl": "None",
       "isTeam": false,
       "period": ["2024.1.20", "-"],
-      "stack": ["React","Django","Next.js","python","AI/ML"]
+      "stack": ["python","AI/ML"]
     },
 
     {
       "id": 5,
-      "name": "파인튜닝 챗봇 웹사이트 개발",
+      "name": "파인튜닝 챗봇 웹사이트",
       "description": "GPT API를 이용하여 웹사이트에 챗봇 프로그램을 넣어 자사 궁금증에 질답을 할 수 있도록 함",
       "repoUrl": "None",
       "isTeam": false,
@@ -93,17 +91,40 @@
     },
     {
       "id": 1,
-      "name": "한국장학재단 사회리더 멘토링",
-      "period": ["2022. 04", "2022. 11"],
-      "description": "리더십 함양 및 회사 운영 시스템 멘토링"
+      "name": "KBW 2022 참관",
+      "period": ["2022. 08 [3일간 진행]"],
+      "description": "Solana,UniSwap,Klaytn등 세계 최대 규모의 블록체인 컨퍼런스로 비탈릭 부테린을 비롯한 여러 거물들을 볼 수 있는 행사"
     },
     {
       "id": 2,
       "name": "한국장학재단 사회리더 멘토링",
       "period": ["2022. 04", "2022. 11"],
       "description": "리더십 함양 및 회사 운영 시스템 멘토링"
+    },
+    {
+      "id": 3,
+      "name": "IT미주연수",
+      "period": ["2022. 01"],
+      "description": "CES2023 참관 및 해외 유수 기업 방문"
+    },
+    {
+      "id": 3,
+      "name": "서울시 주관 서울런",
+      "period": ["2023.03","2024.01"],
+      "description": "중/고등학생 학습 멘토링"
+    },
+    {
+      "id": 4,
+      "name": "POSCO 인천_도시혁신스쿨",
+      "period": ["2023.03","2024.01"],
+      "description": "민, 관, 기업 사업 협업. 수천억 단위의 개발 프로젝트에 참여할 수 있는 기회를 제공"
+    },
+    {
+      "id": 5,
+      "name": "반도체 공학회 하계 학술대회",
+      "period": ["2023.03","2024.01"],
+      "description": "최신 반도체 개발 기술을 소개하고, 현재 연구중인 반도체 기술논문을 설명하는 학술대회"
     }
-
   ],
 
   "education": [
@@ -118,9 +139,27 @@
   "certificate": [
     {
       "id": 0,
+      "name": "매경테스트 우수(경제경영테스트)",
+      "date": "2021.10",
+      "organizer": "매일경제신문"
+    },
+    {
+      "id": 1,
+      "name": "Adobe Premier Pro",
+      "date": "2022.06",
+      "organizer": "adobe"
+    },
+    {
+      "id": 2,
       "name": "정보처리기사",
       "date": "2023. 9. 11",
       "organizer": "대한상공회의소"
+    },
+    {
+      "id": 3,
+      "name": "데일카네기 리더십",
+      "date": "2023.11",
+      "organizer": "데일카네기"
     }
   ],
 
