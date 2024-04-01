@@ -22,8 +22,8 @@
       "id": 0,
       "name": "Logistics tracking and management system",
       "description": "Use Hyperledger Fabric technology",
-      "webUrl": "None",
-      "repoUrl": "None",
+      "webUrl": "",
+      "repoUrl": "",
       "isTeam": false,
       "period": ["2022. 07", "2022. 08.22"],
       "stack": ["Go", "JavaScript", "Docker", "HTML/CSS","python","Node.js"]
@@ -33,7 +33,7 @@
       "name": "외부 날씨환경에 맞는 무드등",
       "description": "온습도 센서, 조도센서를 활용해 외부 데이터를 블루투스통신으로 ",
       "webUrl": "",
-      "repoUrl": "https://github.com/sjoleee/",
+      "repoUrl": "",
       "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
       "stack": ["C","Linux","Arduino","TCP/IP","SQL"]
@@ -51,7 +51,7 @@
       "id": 3,
       "name": "Judging the image Using Finetuning Model",
       "description": "imageNet의 pretraining된 모델을 이용해 class에 없는 새로운 이미지 판단 prediction accuracy 비교분석",
-      "repoUrl": "https://github.com/SoftBankCorp/automobile_test_project",
+      "repoUrl": "",
       "isTeam": false,
       "period": ["2024.3.20", "2024.3.24"],
       "stack": ["python","AI/ML"]
@@ -60,7 +60,7 @@
       "id": 4,
       "name": "Yolo5 을 이용한 얼굴/사물인식_실시간 판단",
       "description": "실시간으로 위험판단 및 학습된 이미지와 캠에서의 이미지 차이판단 오류검출",
-      "repoUrl": "None",
+      "repoUrl": "",
       "isTeam": false,
       "period": ["2024.1.20", "-"],
       "stack": ["python","AI/ML"]
@@ -70,7 +70,7 @@
       "id": 5,
       "name": "파인튜닝 챗봇 웹사이트",
       "description": "GPT API를 이용하여 웹사이트에 챗봇 프로그램을 넣어 자사 궁금증에 질답을 할 수 있도록 함",
-      "repoUrl": "None",
+      "repoUrl": "",
       "isTeam": false,
       "period": ["2024.1.20", "-"],
       "stack": ["React","Django","Next.js","python","AI/ML"]
