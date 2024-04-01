@@ -22,8 +22,6 @@
       "id": 0,
       "name": "Logistics tracking and management system",
       "description": "Use Hyperledger Fabric technology",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": false,
       "period": ["2022. 07", "2022. 08.22"],
       "stack": ["Go", "JavaScript", "Docker", "HTML/CSS","python","Node.js"]
@@ -32,8 +30,6 @@
       "id": 1,
       "name": "외부 날씨환경에 맞는 무드등",
       "description": "온습도 센서, 조도센서를 활용해 외부 데이터를 블루투스통신으로 ",
-      "webUrl": "",
-      "repoUrl": "",
       "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
       "stack": ["C","Linux","Arduino","TCP/IP","SQL"]
