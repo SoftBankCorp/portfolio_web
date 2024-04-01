@@ -23,7 +23,7 @@
       "name": "Logistics tracking and management system",
       "description": "Use Hyperledger Fabric technology",
       "isTeam": false,
-      "period": ["2022. 07", "2022. 08.22"],
+      "period": ["2022. 07.05", "2022. 08.22"],
       "stack": ["Go", "JavaScript", "Docker", "HTML/CSS","python","Node.js"]
     },
     {
@@ -75,7 +75,6 @@
       "id": 6,
       "name": "LLM을 이용한 아기 돌보미",
       "description": "카메라로 행동인식을 통해 위험시 알림 및 LLM을 통한 대화로 아이의 정서케어",
-      "repoUrl": "None",
       "isTeam": true,
       "period": ["2024.3.25", "-"],
       "stack": ["python","AI/ML"]
@@ -117,13 +116,13 @@
     {
       "id": 4,
       "name": "POSCO 인천_도시혁신스쿨",
-      "period": ["2023.03","2024.01"],
+      "period": ["2023.04","2023.06"],
       "description": "민, 관, 기업 사업 협업. 수천억 단위의 개발 프로젝트에 참여할 수 있는 기회를 제공"
     },
     {
       "id": 5,
       "name": "반도체 공학회 하계 학술대회",
-      "period": ["2023.03","2024.01"],
+      "period": ["2023.09 (2박3일)"],
       "description": "최신 반도체 개발 기술을 소개하고, 현재 연구중인 반도체 기술논문을 설명하는 학술대회"
     }
   ],
@@ -154,7 +153,7 @@
       "id": 2,
       "name": "정보처리기사",
       "date": "2023. 9. 11",
-      "organizer": "대한상공회의소"
+      "organizer": "산업인력공단"
     },
     {
       "id": 3,
