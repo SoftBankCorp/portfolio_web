@@ -64,7 +64,7 @@
 
     {
       "id": 5,
-      "name": "파인튜닝 챗봇 웹사이트_v1_백엔드진행중",
+      "name": "파인튜닝 챗봇 웹사이트_v1_test",
       "description": "GPT API를 이용하여 웹사이트에 챗봇 프로그램을 넣어 자사 궁금증에 질답을 할 수 있도록 함",
       "repoUrl": "https://github.com/SoftBankCorp/fullstack_fine_tuning_web",
       "isTeam": false,
