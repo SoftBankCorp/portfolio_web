@@ -31,7 +31,7 @@
       "name": "외부 날씨환경에 맞는 무드등",
       "description": "온습도 센서, 조도센서를 활용해 외부 데이터를 블루투스통신으로 ",
       "isTeam": true,
-      "period": ["2022. 10", "2022. 11"],
+      "period": ["2023. 10", "2023. 11"],
       "stack": ["C","Linux","Arduino","TCP/IP","SQL"]
     },
     {
